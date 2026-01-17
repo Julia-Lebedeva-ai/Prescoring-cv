@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+Zerocoder education/PE38 Prescoring CV/__pycache__
+secrets.toml
+Zerocoder education/PE38 Prescoring CV/secrets.toml
+.env
